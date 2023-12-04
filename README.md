@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rupesh Kumar Somala</h1>
+<h1 align="center">Hi 👋, I'm Rupesh Kumar Somala</h1> 
 <h3 align="center">Senior SDET++</h3>
-
+<p align="center"><img src="https://github.com/Rupesh253/AboutMe/assets/18684949/b73ea9f3-2d2e-4049-919c-852ee24ec5e9" width="125" height="125"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh253&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh253" /> </p>
 
 - 🔭 I’m currently working on **Low-Code/No-Code Platform**
@@ -12,7 +12,6 @@
 - 📫 How to reach me **rupeshkumarsomala@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rupesh753/](https://www.linkedin.com/in/rupesh753/)
-
 
 <h4 align="left">Languages:</h4>
 <p align="left">
@@ -59,4 +58,3 @@
 
 <h3 align="left">My Contributions:</h3>
 https://github.com/Rupesh253/AboutMe/assets/18684949/07a666ff-e256-4b7f-a4f5-df4f737de156
-
