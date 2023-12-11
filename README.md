@@ -38,11 +38,12 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
 <h4 align="left">Logs Observatory:</h4>
  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
-  <a href="https://developer.android.com/studio/debug/logcat" target="_blank" rel="noreferrer"> <img src="https://i.ytimg.com/vi/dQGzkmN0PLM/maxresdefault.jpg" alt="logcat" width="40" height="40"/>
-  <a href="https://www.charlesproxy.com" target="_blank" rel="noreferrer"> <img src="https://cracksite.net/wp-content/uploads/2021/05/Charles-Web-Debugging-Proxy-Crack.jpg" alt="CharlesProxy" width="40" height="40"/></a>
+  <a href="https://developer.android.com/studio/debug/logcat" target="_blank" rel="noreferrer"> <img src="https://i.ytimg.com/vi/dQGzkmN0PLM/maxresdefault.jpg" alt="logcat" width="80" height="40"/>
+  <a href="https://www.charlesproxy.com" target="_blank" rel="noreferrer"> <img src="https://cracksite.net/wp-content/uploads/2021/05/Charles-Web-Debugging-Proxy-Crack.jpg" alt="CharlesProxy" width="60" height="40"/></a>
 <h4 align="left">Pipelining Tools:</h4>
+    <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/assets/actions-icon-actions-61925a4b8822.svg" alt="githubActions" width="40" height="40"/> </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
+   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
     <h4 align="left">Designing Tools:</h4>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></p>
 
