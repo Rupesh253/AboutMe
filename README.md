@@ -3,6 +3,13 @@
 <p align="center"><img src="https://github.com/Rupesh253/AboutMe/assets/18684949/b73ea9f3-2d2e-4049-919c-852ee24ec5e9" width="125" height="125"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh253&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh253" /> </p>
 
+
+
+- ❄️ **Next-Gen Résumé of ME- 3 Size Variants** 
+                         [[Compressed(1.2MB)]](https://bit.ly/3tspZb5)
+                         | [[Minified(21MB) (✔️Recommended)]](https://bit.ly/41n8aqy)
+                         | [[Printing(91MB)]](https://bit.ly/48wioHB)
+
 - 🔭 I’m currently working on **Low-Code/No-Code Platform**
 
 - 👯 I’m looking to collaborate on **Interesting projects**
@@ -12,6 +19,7 @@
 - 📫 How to reach me **rupeshkumarsomala@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rupesh753/](https://www.linkedin.com/in/rupesh753/)
+
 
 <h4 align="left">Languages:</h4>
 <p align="left">
