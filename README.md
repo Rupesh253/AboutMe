@@ -5,10 +5,8 @@
 
 
 
-- ❄️ **Next-Gen Résumé of ME- 3 Size Variants** 
-                         [[Compressed(1.2MB)]](https://bit.ly/3tspZb5)
-                         | [[Minified(21MB) (✔️Recommended)]](https://bit.ly/41n8aqy)
-                         | [[Printing(91MB)]](https://bit.ly/48wioHB)
+- ❄️ **Next-Gen Résumé of Rupesh Kumar Somala- 3 Size Variants**     
+   [[Compressed(1.2MB)]](https://bit.ly/3tspZb5)| [[Minified(21MB) (✔️Recommended)]](https://bit.ly/41n8aqy) | [[Printing(91MB)]](https://bit.ly/48wioHB)
 
 - 🔭 I’m currently working on **Low-Code/No-Code Platform**
 
