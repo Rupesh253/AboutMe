@@ -6,7 +6,7 @@
 
 
 - ❄️ **Next-Gen Résumé of Rupesh Kumar Somala- 3 Size Variants**    
-‎ ‎ ‎ ‎ ‎ ‎ [[Compressed(1.4MB)]](https://bit.ly/3H3IJkv)   |   [[Minified(21MB) (✔️Recommended)]](https://bit.ly/4aFMk5F)   |   [[Printing(93MB)]](https://bit.ly/4aJ7EaL)
+‎ ‎ ‎ ‎ ‎ ‎ [[Compressed(1.2MB)]](https://bit.ly/3OCTTRe)   |   [[Minified(8MB) (✔️Recommended)]](https://bit.ly/49n1BHk)   |   [[Printing(93MB)]](https://bit.ly/3HW1tCV)
 
 - 🔭 I’m currently working on **Low-Code/No-Code Platform**
 
