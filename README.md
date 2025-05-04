@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh253&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh253" /> </p>
 
 
-- ❄️ Minimalist Résumé of Rupesh Kumar Somala- [[Ready Here(144KB)]](https://drive.google.com/file/d/1_Jlz9HNUuEtif9joqR-1PePUkrEzmknl/view?usp=sharing)
+- ❄️ Minimalist Résumé of Rupesh Kumar Somala- [[Ready Here(141KB)]](https://drive.google.com/file/d/1A5n0qiMHlZiErqWzVc5J4vdBjNJYQ3R7/view?usp=sharing)
 - ❄️ **Next-Gen Résumé of Rupesh Kumar Somala- 3 Size Variants**    
-‎ ‎ ‎ ‎ ‎ ‎ [[Compressed(8.1MB)]](https://drive.google.com/file/d/1xpgZe8bQ-lPXRUXgreuvscnpgX1HxA3b/view?usp=sharing)   |   [[Minified(25MB) (✔️Recommended)]](https://drive.google.com/file/d/1ziQ4LxjEVeWuMy6ZVY6nJOsmGUmSbxd5/view?usp=sharing)   |   [[Printing(72MB)]](https://drive.google.com/file/d/1pT-X0zFtTfBI_4GKr7xbaUjVkCrog10r/view?usp=sharing)
+‎ ‎ ‎ ‎ ‎ ‎ [[Compressed(17MB)]](https://drive.google.com/file/d/1c_qqzKQmXrkW7zAvoqiCKxC8olZCZafL/view?usp=sharing)  |   [[Printing(45MB)]](https://drive.google.com/file/d/1pZoR6FB9yy6vCrSDJfXK5Q2HYmzBrxDq/view?usp=sharing)
 
 - 🔭 I’m currently working on **Low-Code/No-Code Platform**
 
