@@ -6,7 +6,7 @@
 
 - ❄️ Minimalist Résumé of Rupesh Kumar Somala- [[Ready Here(141KB)]](https://drive.google.com/file/d/1A5n0qiMHlZiErqWzVc5J4vdBjNJYQ3R7/view?usp=sharing)
 - ❄️ **Next-Gen Résumé of Rupesh Kumar Somala- 3 Size Variants**    
-‎ ‎ ‎ ‎ ‎ ‎ [[Compressed(17MB)]](https://drive.google.com/file/d/1c_qqzKQmXrkW7zAvoqiCKxC8olZCZafL/view?usp=sharing)  |   [[Printing(45MB)]](https://drive.google.com/file/d/1pZoR6FB9yy6vCrSDJfXK5Q2HYmzBrxDq/view?usp=sharing)
+‎ ‎ ‎ ‎ ‎ ‎ [[Compressed(17MB)]](https://drive.google.com/file/d/1c_qqzKQmXrkW7zAvoqiCKxC8olZCZafL/view?usp=sharing) | [[Printing(45MB)]](https://drive.google.com/file/d/1pZoR6FB9yy6vCrSDJfXK5Q2HYmzBrxDq/view?usp=sharing)
 
 - 🔭 I’m currently working on **Low-Code/No-Code Platform**
 
