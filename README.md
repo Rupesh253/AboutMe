@@ -43,8 +43,10 @@
   <tr>
   <td>
     <ul>
-    <li>Certified Tester Foundation Level</li>
-    <li>Certified Advanced Level Tester</li>
+    <li>Certified Foundation Level Tester</li>
+    <li>Certified Advanced Level Tester<br>
+     - Technical Test Analyst
+    </li>
     <li>Mobile Application Specialist Tester</li>
     </ul>
   </td>
